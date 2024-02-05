@@ -2,7 +2,7 @@
  {
   "input": "Hello, hello again.",
   "model": "nmt",
-  "translatedText": "Hello, helló még egyszer.",
+  "translatedText": "Helló, helló ismét.",
   "time_range": [
    11.980000000000002,
    13.0
@@ -11,7 +11,7 @@
  {
   "input": "So moving forward, I'll be assuming that you have a visual understanding of linear transformations and how they're represented with matrices, the way that I've been talking about in the last few videos.",
   "model": "nmt",
-  "translatedText": "Tehát előre haladva azt feltételezem, hogy vizuálisan érti a lineáris transzformációkat és azt, hogy hogyan ábrázolják őket mátrixokkal, ahogyan az elmúlt néhány videóban beszéltem.",
+  "translatedText": "Tehát ezentúl azt feltételezem, hogy vizuálisan érti a lineáris transzformációkat és azt, hogy hogyan ábrázolják őket mátrixokkal, ahogyan azt az elmúlt néhány videóban elmondtam.",
   "time_range": [
    13.52,
    21.84
@@ -20,7 +20,7 @@
  {
   "input": "If you think about a couple of these linear transformations, you might notice how some of them seem to stretch space out, while others squish it on in.",
   "model": "nmt",
-  "translatedText": "Ha néhány ilyen lineáris transzformációra gondol, észreveheti, hogy némelyikük kinyújtja a teret, míg mások benyomják.",
+  "translatedText": "Ha néhány ilyen lineáris transzformációra gondol, észreveheti, hogy némelyikük kinyújtja a teret, míg mások összenyomják.",
   "time_range": [
    22.66,
    30.42
@@ -29,7 +29,7 @@
  {
   "input": "One thing that turns out to be pretty useful for understanding one of these transformations is to measure exactly how much it stretches or squishes things.",
   "model": "nmt",
-  "translatedText": "Az egyik dolog, ami nagyon hasznosnak bizonyul az egyik ilyen átalakulás megértéséhez, az az, hogy pontosan megmérjük, mennyire feszíti vagy szorítja a dolgokat.",
+  "translatedText": "Az egyik dolog, ami nagyon hasznosnak bizonyul az egyik ilyen transzformáció megértéséhez, az annak a pontos megmérése, hogy mennyire nyújtja vagy szorítja össze a dolgokat.",
   "time_range": [
    31.14,
    38.92
@@ -38,7 +38,7 @@
  {
   "input": "More specifically, to measure the factor by which the area of a given region increases or decreases.",
   "model": "nmt",
-  "translatedText": "Pontosabban annak mérésére, hogy egy adott régió területe milyen tényezővel növekszik vagy csökken.",
+  "translatedText": "Pontosabban annak mérése, hogy egy adott régió területe milyen mértékben növekszik vagy csökken.",
   "time_range": [
    39.52,
    45.82
@@ -56,7 +56,7 @@
  {
   "input": "It scales i-hat by a factor of 3 and scales j-hat by a factor of 2.",
   "model": "nmt",
-  "translatedText": "Az i-hat értéket 3-szorosára, a j-hatot pedig 2-szeresére méretezi.",
+  "translatedText": "A kalapos i-t 3-szorosára, a kalapos j-t pedig 2-szeresére méretezi.",
   "time_range": [
    51.32,
    56.18
@@ -65,7 +65,7 @@
  {
   "input": "Now, if we focus our attention on the 1 by 1 square whose bottom sits on i-hat and whose left side sits on j-hat, after the transformation, this turns into a 2 by 3 rectangle.",
   "model": "nmt",
-  "translatedText": "Ha most arra az 1x1-es négyzetre összpontosítjuk a figyelmünket, amelynek az alja az i-kalapon, a bal oldala pedig a j-kalapon ül, a transzformáció után ez 2x3-as téglalappá alakul.",
+  "translatedText": "Na most, ha arra az 1x1-es négyzetre összpontosítjuk a figyelmünket, amelynek az alja a kalapos i-n, a bal oldala pedig a kalapos j-n ül, a transzformáció után ez 2x3-as téglalappá alakul.",
   "time_range": [
    56.699999999999996,
    67.52
@@ -74,7 +74,7 @@
  {
   "input": "Since this region started out with area 1 and ended up with area 6, we can say the linear transformation has scaled its area by a factor of 6.",
   "model": "nmt",
-  "translatedText": "Mivel ez a régió az 1-es területtel kezdődött és a 6-os területtel végződött, elmondhatjuk, hogy a lineáris transzformáció 6-szorosára növelte a területét.",
+  "translatedText": "Mivel ez a régió 1 egységnyi területtel kezdődött és 6 egységnyi területtel végződött, elmondhatjuk, hogy a lineáris transzformáció 6-szorosára növelte a területét.",
   "time_range": [
    68.38,
    77.28
